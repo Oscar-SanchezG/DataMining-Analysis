@@ -1,0 +1,4 @@
+US Boston Pittsburgh Washington Seattle 
+UK London Edinburgh Cardiff Belfast
+México Guanajuato Querétaro CDMX Toluca Torreón
+Brasil Río Brasilia SaoPaulo Recife PortoAlegre

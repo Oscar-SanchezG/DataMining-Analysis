@@ -1,0 +1,85 @@
+﻿name,age,sex,height,weight,semester,courses_taken,pet,city_origin,videogame_console
+Aaron Alberto Santibañez Cano,20,h,1.77,95,5,33,dog,Irapuato,n
+Aaron Ramirez,23,h,1.74,108,9,35,n,Salamanca,y
+Alejandro gallardo,23,h,1.5,60,11,46,n,salamanca,n
+Ana López,22,m,1.6,50,9,49,dog,Yuriria,n
+Andrés,23,h,1.61,62,9,50,cat/dog/other,jaral del progreso,y
+Antonio Plaza Flores,22,h,1.8,93,8,50,dog,Salvatierra,n
+Axel Alejandro Hidalgo,22,h,1.85,90,8,37,dog,Irapuato,y
+Blas de Jesus Moreno Fuentes,22,h,1.81,87,9,46,dog,Irapuato,y
+Blas Moreno,22,h,1.8,87,9,46,dog,Irapuato,y
+Brandon,20,h,1.8,70,3,5,dog,salamanca,y
+Bryan Alberto Olmos Ramírez,19,h,1.86,68,2,11,dog/other,Silao,y
+Carlos Alberto Muñiz,24,h,1.8,107,11,43,n,Salamanca,n
+Carmen Paola Gallegos,20,m,1.68,66,3,15,dog,Irapuato,n
+Carolina Aguirre,23,m,1.54,82,9,46,n,salamanca,n
+Cesar Antonio Salgado Escoto,24,h,1.75,56,9,40,dog,Salamanca,y
+Cindy Ortiz Escoto,21,m,1.52,50,3,21,n,Salamanca,n
+Citlalli Airy Hernández Ledesma,22,m,1.54,60,8,32,other,Salamanca,n
+Daniel Alfredo Alcocer Soriano,22,h,1.9,90,9,50,dog,Salamanca,y
+Daniel Nájera Flores,22,h,1.79,85,9,39,dog,Irapuato,y
+Daniel Soriano ,24,h,1.8,90,11,40,n,salamanca,y
+Daniela,18,m,1.55,56,2,10,other,veracruz,n
+Duran Moncada Rafael Luis,22,h,1.8,120,9,40,n,Irapuato,y
+Edgar Báez Lázaro,21,h,1.68,71,9,45,dog,Puebla,n
+Eduardo Cabrera Lopez,23,h,1.63,58,9,46,dog/cat/other,CDMX,n
+Eduardo Caudillo González,20,h,1.78,89,5,27,dog,Irapuato,y
+Eduardo Garcia Cisneros,23,h,1.82,81,6,27,n,Salamanca,n
+Eliseo Arturo Navarro Cavazos,23,h,1.71,65,10,46,dog,Salamanca,y
+Emmanuel Rodríguez Barajajas,23,h,1.85,76,10,42,cat,Guanajuato,n
+Esteban López,23,h,1.78,75,9,45,dog,Zamora,y
+Fátima Aradid Castañeda Gutiérrez,22,m,1.54,70,7,41,dog,Irapuato,y
+Fernanda,25,m,1.59,60,11,40,cat,celaya,n
+Fernando,23,h,1.72,55,5,35,cat,Valle de Santiago,n
+Fernando Chávez,23,h,1.74,83,9,54,dog,León,y
+Fidel Alberto Gómez Rodríguez,22,h,1.78,77,8,42,other,Irapuato,y
+Francisco Javier Solis Martinez,22,h,1.77,75,9,54,dog,Irapuato,y
+Francisco Luna,20,h,1.7,76,3,16,dog,salamanca,y
+Gerardo Vieyra ,24,h,1.82,83,11,46,dog,Salamanca,y
+Guillermo,24,h,1.58,60,10,55,dog,irapuato,y
+Heian,22,h,1.64,79,7,43,other,Veracruz,y
+Humberto Santiago Martinez ,21,h,1.76,68,7,41,dog,Irapuato,n
+Isaac Gómez,21,h,1.78,78,7,34,dog,Irapuato,y
+Jarym Gómez,22,h,1.63,64,9,55,dog,Jaral del progreso,n
+Jesus Antonio Rodriguez,21,h,1.77,80,7,32,dog,Salamanca,y
+jezabel Ledesma,24,m,1.65,65,10,45,cat,irapuato,y
+Joetan Bernardo Arfaxad,23,h,1.76,89,10,47,dog,Salamanca,n
+johan zurita,23,h,1.68,80,10,38,n,salamanca,n
+Johanna Bravo,24,m,1.65,63,11,44,dog,Valle de Santiago,y
+José Miguel Rodrigo Paredes,22,h,1.85,90,9,61,n,Tarimoro,n
+Juan Alfredo Ramírez Gutierrez ,23,h,1.8,97,10,43,dog,Valle de Santiago ,n
+Juan Carlos Zumaya Ramirez,23,h,1.63,63,5,32,n,Irapuato,y
+Juan emmanuel,23,h,1.6,72,9,48,cat/dog/other,cortazar,y
+Juan Leonid Tavera,22,h,1.75,76,9,32,n,Salamanca,y
+Juan Ramírez,22,h,1.7,96,9,54,dog/cat,Irapuato,y
+Juan Sebastian Chavez Acuña,22,h,1.72,90,9,52,dog,Irapuato,y
+Karim Rivera Calderon,23,h,1.78,103,7,35,dog,Salamanca,y
+Karina Alejandra Flores Sancen,24,m,1.76,64,10,55,other,Salvatierra,n
+Karla Guzmán,22,m,1.63,54.5,9,49,n,Salamanca,n
+Kharenn,21,m,1.65,62,4,32,dog,Irapuato,y
+Leonardo González,22,h,1.82,67,2,31,n,irapuato,y
+Leonardo Juárez Morales,22,h,1.78,56,9,46,dog,Irapuato,y
+Luis Hernández,22,h,1.79,70,7,38,dog,Salamanca,y
+Marco Antonio Ramírez Pérez,23,h,1.79,95,10,40,n,Irapuato,y
+María Fernanda Paredes Amador,19,m,1.5,52.4,3,14,dog/cat,Salamanca,n
+Mariela,24,m,1.5,65,11,52,dog,Xichú,n
+Mariela Ramos,23,m,1.5,65,11,52,dog,Xichú,n
+Miguel Angel Rojas Andrade,25,h,1.73,75,3,40,dog/cat,San Luis Potosí,y
+Miguel García Tapia,22,h,1.79,95,9,56,n,Guanajuato,y
+Miguel Santillán,23,h,1.73,77,10,47,cat,Salamanca,y
+navarro Cavazos ,23,h,1.6,63,11,40,n,salamanca,n
+Nestor Manuel Bautista,23,h,1.81,112,9,43,dog,Valle de Santiago,y
+Nicolás Eduardo Rojas Castro,22,h,1.8,98,5,35,dog,Salvatierra,n
+Ramiro aguayo ,23,h,1.78,95,6,36,cat,Salamanca,y
+Ramiro Aguayo Aguayo,23,h,1.79,85,5,35,n,Salamanca,y
+Renato Osmar  Navarrete Medina,21,h,1.56,53,6,32,dog,Irapuato,n
+Ricardo García Jiménez,23,h,1.86,115,9,48,dog,Salvatierra,y
+roberto cruz,25,h,1.7,93,11,46,n,salamanca,y
+Rogelio Manríquez Cobián,20,h,1.77,78,5,30,dog,León,y
+romina garcia,23,m,1.68,78,6,30,cat,irapuato,n
+Salvador Sancén Gudiño,21,h,1.89,101,4,32,dog/cat/other,Celaya,y
+Samuel Villalpando Gamiño,22,h,1.82,72,9,58,dog,León,n
+Sergio Alberto Zavala,22,h,1.8,76,7,34,cat/dog,Salamanca,y
+Shauri Reyna Herrera,22,m,1.73,76,9,46,dog,Salvatierra,n
+Steven Yair Peñuelas Torres ,22,h,1.58,46,9,35,cat,Silao ,y
+Yuvia Hurtado Sánchez,22,m,1.68,70,9,59,n,Salvatierra,n
