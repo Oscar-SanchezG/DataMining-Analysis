@@ -7,7 +7,7 @@ Created on Wed May 17 07:26:57 2023
 import json
 d={
 0: {'strAccion' : ['1']},
-1: {'strUsuario' : ['rnazario']},
+1: {'strUsuario' : ['xxxxxxxxxx']},
 2: {'strSucursal' : ['']},
 3: {'strPeriodo' : ['5']},
 4: {'strEjercicio' : ['2013']},
